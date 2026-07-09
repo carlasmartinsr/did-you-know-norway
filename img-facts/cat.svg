@@ -1,0 +1,28 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#4a555c" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- orejas -->
+    <path d="M42 46 L 36 26 L 52 38"/>
+    <path d="M78 46 L 84 26 L 68 38"/>
+    <!-- interior orejas (acento coral) -->
+    <path d="M43 40 L 40 31 L 48 37" stroke="#e08e8e"/>
+    <path d="M77 40 L 80 31 L 72 37" stroke="#e08e8e"/>
+    <!-- cara -->
+    <circle cx="60" cy="62" r="24"/>
+    <!-- bigotes -->
+    <line x1="34" y1="60" x2="20" y2="57"/>
+    <line x1="34" y1="66" x2="20" y2="69"/>
+    <line x1="86" y1="60" x2="100" y2="57"/>
+    <line x1="86" y1="66" x2="100" y2="69"/>
+    <!-- ojitos cerrados felices -->
+    <path d="M48 58 Q 51 54, 54 58"/>
+    <path d="M66 58 Q 69 54, 72 58"/>
+    <!-- naricita -->
+    <path d="M57 66 L 63 66 L 60 70 Z"/>
+    <!-- boquita sonriente -->
+    <path d="M60 70 Q 56 75, 51 72 M60 70 Q 64 75, 69 72"/>
+    <!-- estrellita de acento amarillo -->
+    <path d="M92 34 L 93.5 38 L 98 39.5 L 93.5 41 L 92 45 L 90.5 41 L 86 39.5 L 90.5 38 Z" stroke="#e8b84a"/>
+    <!-- corazoncito coral -->
+    <path d="M26 82 C 26 79.5, 29.5 79.5, 29.5 82 C 29.5 79.5, 33 79.5, 33 82 C 33 85, 29.5 87, 29.5 87 C 29.5 87, 26 85, 26 82 Z" stroke="#e08e8e"/>
+  </g>
+</svg>
